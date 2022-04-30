@@ -54,7 +54,7 @@
     "sisteransi": "^1.0.5",
     "string_decoder": "^0.10.31",
     "supports-color": "^7.2.0",
-    "tar": "^2.2.2",
+    "tar": "^4.4.18",
     "tar-pack": "^3.4.1",
     "through2": "^0.6.5",
     "tmp": "^0.2.1",
